@@ -8,5 +8,5 @@
 　　同時也希望藉由此專題，作為將來一份參考，讓將來學習數學的學生，能對應用數學有個基本的了解。
 
 參考資料:
-　　1.<Least-Squares Rigid Motion Using SVD> Olga Sorkine-Hornung and Michal Rabinovich
+　　1.﹝Least-Squares Rigid Motion Using SVD﹞ Olga Sorkine-Hornung and Michal Rabinovich
 　　其他 待補充
